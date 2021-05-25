@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShivSahil
 - 👀 I’m interested in learning AI & ML in conjuction with Selenium
-- 🌱 I’m currently learning python for maing good base for AI
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python for creating good base for AI
+- 💞️ I’m looking to collaborate on ... nothing as of now.
 - 📫 How to reach me shivguleri@tuta.io
 
 <!---
