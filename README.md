@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ShivSahil
-- 👀 I’m interested in learning AI & ML in conjuction with Selenium
-- 🌱 I’m currently learning python for creating good base for AI
-- 💞️ I’m looking to collaborate on ... nothing as of now.
-- 📫 How to reach me shivguleri@tuta.io
+- Hi, I’m Shiv Sahil Guleri
+- you can reach me at shivguleri@tuta.io
+- I am interested in furthering my understading of various Tools and Technologies in Testing
+- in am currently learning jenkins
 
-<!---
-ShivSahil/ShivSahil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
